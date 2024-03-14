@@ -1,0 +1,60 @@
+OnePlus
+3840 x 1644 ÏñËØ
+Qualcomm Snapdragon 888
+4600mAh
+11W
+5999Ôª
+Honor
+3840 x 1644 ÏñËØ
+Apple A15
+4600mAh
+17W
+3299Ôª
+Xiaomi
+2400 x 1080 ÏñËØ
+Qualcomm Snapdragon 8+
+4100mAh
+7W
+1899Ôª
+Sony
+2340 x 1080 ÏñËØ
+MediaTek Dimensity 9300
+4000mAh
+7W
+3799Ôª
+Honor
+2400 x 1080 ÏñËØ
+Qualcomm Snapdragon 765G
+5000mAh
+17W
+2399Ôª
+OnePlus
+3840 x 1644 ÏñËØ
+Qualcomm Snapdragon 888
+5300mAh
+9W
+12999Ôª
+Xiaomi
+3840 x 1644 ÏñËØ
+MediaTek Dimensity 9300
+4600mAh
+7W
+2699Ôª
+Honor
+2532 x 1170 ÏñËØ
+Apple A17 Pro
+4600mAh
+11W
+5899Ôª
+OnePlus
+3840 x 1644 ÏñËØ
+Qualcomm Snapdragon 8+
+5300mAh
+8W
+2699Ôª
+Sony
+3840 x 1644 ÏñËØ
+Qualcomm Snapdragon 888
+5300mAh
+14W
+5999Ôª

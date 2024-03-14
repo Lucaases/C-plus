@@ -1,0 +1,60 @@
+Apple
+3840 x 1644 ÏñËØ
+MediaTek Dimensity 9300
+4600mAh
+14W
+5899Ôª
+Sony
+2532 x 1170 ÏñËØ
+Qualcomm Snapdragon 888
+5300mAh
+8W
+3799Ôª
+Honor
+2400 x 1080 ÏñËØ
+Apple A17 Pro
+4100mAh
+13W
+6799Ôª
+ZTE
+2340 x 1080 ÏñËØ
+Apple A15
+4100mAh
+17W
+5999Ôª
+Samsung
+2532 x 1170 ÏñËØ
+HiSilicon Kirin 9000S
+4500mAh
+10W
+2399Ôª
+Vivo
+2448 x 1080 ÏñËØ
+Qualcomm Snapdragon 765G
+5300mAh
+14W
+6799Ôª
+Samsung
+2340 x 1080 ÏñËØ
+Qualcomm Snapdragon 765G
+4000mAh
+11W
+5999Ôª
+Vivo
+3840 x 1644 ÏñËØ
+HiSilicon Kirin 9000S
+4600mAh
+12W
+4899Ôª
+Vivo
+3840 x 1644 ÏñËØ
+MediaTek Dimensity 9200
+4100mAh
+7W
+1899Ôª
+Xiaomi
+3840 x 1644 ÏñËØ
+Apple A17 Pro
+3500mAh
+14W
+2699Ôª
